@@ -13,6 +13,12 @@ var offspring = [
     "id": 3,
     "name": "Maxwell",
     "hobby": "let you down"
+  },
+
+  {
+        "id": 4,
+        "name": "Blair",
+        "hobby": "Being a funny guy"
   }
 ]
 
